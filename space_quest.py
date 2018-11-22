@@ -1,5 +1,6 @@
 #Program name: space_quest.py
-#An advanced classic text adventure game
+#A classic text adventure game
+#Uses many skills you know from prior lessons
 
 import sys
 import time
