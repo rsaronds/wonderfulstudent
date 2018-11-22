@@ -1,5 +1,5 @@
 #Program name: zombie_hunter.py
-#Classic Text Adventure Style Game
+#Your first text adventure
 
 print("***Zombie Hunter***")
 print("")
